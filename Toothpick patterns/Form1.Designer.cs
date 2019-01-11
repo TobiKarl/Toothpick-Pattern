@@ -85,14 +85,19 @@
             // 
             // tpickLength
             // 
+            this.tpickLength.Increment = new decimal(new int[] {
+            10,
+            0,
+            0,
+            0});
             this.tpickLength.Location = new System.Drawing.Point(321, 50);
             this.tpickLength.Maximum = new decimal(new int[] {
-            50,
+            20,
             0,
             0,
             0});
             this.tpickLength.Minimum = new decimal(new int[] {
-            2,
+            10,
             0,
             0,
             0});
