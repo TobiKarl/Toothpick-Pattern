@@ -1,0 +1,10 @@
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\bin\Debug\Toothpick patterns.exe.config
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\bin\Debug\Toothpick patterns.exe
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\bin\Debug\Toothpick patterns.pdb
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\obj\Debug\Toothpick patterns.csprojAssemblyReference.cache
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\obj\Debug\Toothpick_patterns.Properties.Resources.resources
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\obj\Debug\Toothpick patterns.csproj.GenerateResource.cache
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\obj\Debug\Toothpick patterns.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\obj\Debug\Toothpick patterns.exe
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\obj\Debug\Toothpick patterns.pdb
+C:\Users\Tobias\source\repos\Toothpick patterns\Toothpick patterns\obj\Debug\Toothpick_patterns.Form.resources
